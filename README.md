@@ -21,7 +21,7 @@ This repository is an excellent resource for professionals and students looking 
 **Data Modeling**
 **Data Analytics**
 
- Important Links & Tools:
+## Important Links & Tools:
 Everything is for Free!
 
 Datasets: Access to the project dataset (csv files).
